@@ -1,5 +1,4 @@
 #include "mbed.h"
-// #include "SSD1306_mini.h"
 #include "max30100.h"
 #include "functions.h"
 #include "math.h"
